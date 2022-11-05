@@ -16,7 +16,7 @@ const corsOptions = {
     }
   },
   credentials: true, // כדי לאפשר לשלוח קוקייס
-  optionsSuccessStatus: 200, // כדי לאפשר לשלוח קוקייס
+  optionsSuccessStatus: 200,
 };
 
 module.exports = corsOptions;
